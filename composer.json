@@ -1,0 +1,12 @@
+{
+    "name": "root/public",
+    "require": {
+        "mike42/escpos-php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Ahmed Elkadrey",
+            "email": "elkadrey@gmail.com"
+        }
+    ]
+}
